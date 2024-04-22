@@ -1,7 +1,3 @@
-### Name : Prajin S
-### Register Number : 212223230151
-### Date : 22-04-2024
-### Department : Artificial Intelligence and Data Sceince
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
@@ -76,7 +72,7 @@ Installation position: floor, ceiling, walls.
 
 ### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
 
-#### Procedure : 
+## Procedure : 
 
 1. click on dart platfom icon ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
 2. click on the internet interface 
@@ -90,7 +86,7 @@ and click on the connect icon
 
 
 
-### Program
+## Program
 
 
 ![IMG-20240422-WA0028](https://github.com/Prajin19/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979377/e9a444ff-5190-4031-8601-e66ee8d92b42)
@@ -109,7 +105,7 @@ and click on the connect icon
 
 
 
-### output video and screen shots of pick and place 
+## Output video and screen shots of pick and place 
 
 ![IMG-20240422-WA0024](https://github.com/Prajin19/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979377/2a5be189-1f3d-4f19-8c9c-c15ed167637e)
 ![IMG-20240422-WA0035](https://github.com/Prajin19/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979377/39897c90-4a30-4515-aaea-fe5251f62107)
@@ -120,7 +116,7 @@ and click on the connect icon
 
 
 
-### Results: 
+## Results: 
 A regular shaped object is picked using two fingered gripper and placed on conveyor belt sucessfully.
 
 
